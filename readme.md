@@ -62,7 +62,21 @@ python main.py
 
 ## Screenshots
 
-Coming soon.
+### Login
+
+![Login](assets/screenshots/login.png)
+
+### Register
+
+![Register](assets/screenshots/register.png)
+
+### Settings
+
+![Settings](assets/screenshots/settings.png)
+
+### Dashboard
+
+![Dashboard](assets/screenshots/dashboard.png)
 
 ---
 
