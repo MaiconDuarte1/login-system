@@ -1,0 +1,25 @@
+{
+    "app_name": "Login System",
+    "version": "1.0.0",
+    "window": {
+        "width": 1200,
+        "height": 700,
+        "resizable": false
+    },
+    "theme": {
+        "appearance_mode": "Dark",
+        "color_theme": "blue"
+    },
+    "login": {
+        "remember_me": true,
+        "show_register_button": true,
+        "show_forgot_password": true
+    },
+    "database": {
+        "name": "database.db"
+    },
+    "logs": {
+        "enabled": true,
+        "level": "INFO"
+    }
+}
