@@ -1,6 +1,6 @@
 # Login System
 
-A modern open-source login system built with Python and CustomTkinter. Features secure password hashing with bcrypt, SQLite database integration, session management, logging system, and dynamic theme support. Designed with a modular architecture for easy customization and real-world use.
+A modern open-source login system built with Python and CustomTkinter. Features secure password hashing with bcrypt, SQLite database integration, session management, logging system, and dynamic theme support. Designed with a modular architecture for easy customization and real-world use. Includes authentication, registration, settings, and persistent user sessions. Created as a reusable foundation for desktop applications.
 
 ## Features
 
